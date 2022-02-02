@@ -1,0 +1,21 @@
+Image Pre-processing:
+1.Read the image
+2.Display the image 
+3.Rotate the image by 90degrees
+4.Crop the image
+5.Resize the image a) reduce the size with row and column length b) with axis values 
+6.Adjust Image Contrast 
+7.Blur the image a) Gaussian/Median Blur (blur the image by 50%) 
+8.Detect the edges (Canny Edge Detector) 
+9.Convert image to grayscale (Black & White) 
+10.Centroid (Centre of blob) detection using Moment
+11.Apply a mask for a coloured image 
+12.Color detection 
+13.Reduce Noise
+14.Get image contour 
+15.Remove Background from an image
+16.Scan Copy:
+Read the text image and create a scan copy of the given image 
+17. FaceDetection:
+Write a code to capture a video and detect facial landmarks from the frames and create a blank video to plot those facial landmarks
+
